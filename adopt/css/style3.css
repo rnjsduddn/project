@@ -141,7 +141,7 @@
   .introduce-nav li:last-child{
     background-color: var(--sub-color);
   }
-  .white{
+  #white{
     color: white;
   }
 
