@@ -135,7 +135,7 @@
   .introduce-nav li:nth-child(2) {
     background-color: var(--sub-color);
   }
-  .white{
+  #white{
     color: white;
   }
 
